@@ -1,4 +1,3 @@
-````md
 # PSUSphere
 
 PSUSphere is a containerized application using Docker and Docker Compose.  
